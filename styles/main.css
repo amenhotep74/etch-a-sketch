@@ -23,7 +23,6 @@ h1 {
 }
 
 #standard, #rainbow {
-    display: none;
     margin: auto;
 }
 
@@ -43,7 +42,7 @@ h1 {
 }
 
 .highlighted {
-    background: #747474;
+    background: #ff0000;
 }
 
 
